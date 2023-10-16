@@ -1,0 +1,12 @@
+/*-------------------------
+    Footer Area
+-------------------------*/
+.footer-top {
+  background-color: var(--secondary-color);
+  padding: 100px 0 5px; }
+
+.copyright-area {
+  background-color: var(--secondary-color);
+  color: var(--main-color-one);
+  padding: 20px 0 30px;
+  text-align: center; }
